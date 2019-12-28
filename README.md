@@ -1,4 +1,4 @@
-# sql_items
+# Sample SQL Projects
 
 SQL codes including the following
 - complicated joins
